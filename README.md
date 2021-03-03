@@ -1,1 +1,1 @@
-https://sbeznosiuk.github.io/goit-js-hw-10-food-service/.
+https://sBeznosiuk.github.io/goit-js-hw-12-countries
