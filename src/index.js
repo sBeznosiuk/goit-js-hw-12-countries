@@ -41,4 +41,7 @@ function updateMarkup(data) {
     const markup = countriesTemplate(data);
     divRef.innerHTML = markup;
   }
+  if (!data.length) {
+    divRef.innerHTML = '';
+  }
 }
